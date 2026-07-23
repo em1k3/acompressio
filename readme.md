@@ -1,4 +1,4 @@
-# Acompressio (unmantained)
+# Acompressio (unmaintained)
 
 A Telegram bot that compresses videos to a target file size using FFmpeg.
 
